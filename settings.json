@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "EarthSmp-ocVu.aternos.me:62364",
+    "port": 62364,
     "version": "",
     "try-creative": false
   },
